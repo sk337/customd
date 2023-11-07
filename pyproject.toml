@@ -1,5 +1,5 @@
 [project]
-name = "CustomD_1gn"
+name = "CustoMD_1gn"
 version = "0.0.1"
 authors = [{ name = "1gn", email = "me@pk3.zip" }]
 description = "A markdown parser for replit.css by hecker40"

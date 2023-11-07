@@ -1,5 +1,5 @@
 # CustoMD
 
-> A custom md renderer made with replit.css
+> A custom md renderer made for replit.css
 
 
