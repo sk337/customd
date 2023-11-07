@@ -1,4 +1,11 @@
+"""
+Utilites for _init_.py to make code cleaners
+"""
+
 def read_line(buffer):
+    """
+    Read to end of line
+    """
     data=""
     read = True
     while read:
@@ -10,6 +17,9 @@ def read_line(buffer):
     return data
 
 def read_header(buffer, start):
+    """
+    Read a markdown header child
+    """
     header_lvl =1
     read=True
     while read:
